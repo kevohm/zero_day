@@ -1,4 +1,4 @@
 
-#This is a alx project
-*focused on making git learning easier
+# This is a alx project
+# focused on making git learning easier
 
